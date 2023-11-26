@@ -9,7 +9,7 @@ function getLista(){
 }
 
 function adicionaNaLista(item){
-    lista.push(item;)
+    lista.push(item);
 }
 
 function removeDaLista(posicao){
